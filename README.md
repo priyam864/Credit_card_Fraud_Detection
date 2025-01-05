@@ -70,9 +70,6 @@ credit-card-fraud-detection/
 - **Deep Learning Models**: Explore architectures like LSTM for sequential data.
 - **Global Adaptation**: Enable multi-currency and multi-lingual support.
 
----
-
-### For detailed methodology and results, refer to the [project report](report/final_report.pdf).
 
 ---
 

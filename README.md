@@ -58,16 +58,17 @@ Credit card fraud poses a major challenge in the digital financial world. This p
 ## **Project Structure**
 
 ```
+
 Credit-Card-Fraud-Detection/
 │
-├── data/                     # Contains datasets (omit sensitive data)
-├── docs/                     # Documentation and additional resources
-├── images/                   # Visualizations (graphs, confusion matrices, etc.)
-├── notebooks/                # Jupyter notebooks for exploration and development
-├── src/                      # Source code for preprocessing, training, and evaluation
-├── README.md                 # Project documentation
+├── data/                     # (Optional) Include a sample dataset or a README pointing to the source (like Kaggle)
+├── images/                   # Graphs, confusion matrices, and model comparison visualizations
+├── notebooks/                # Jupyter notebooks for exploration and model training
+├── src/                      # Python scripts for data preprocessing, training, and evaluation
 ├── requirements.txt          # Python dependencies
-└── LICENSE                   # License file
+├── README.md                 # Project documentation
+└── LICENSE                   # License file (optional)
+
 ```
 
 ---

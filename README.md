@@ -16,8 +16,7 @@
 7. [Usage](#usage)
 8. [Results](#results)
 9. [Future Scope](#future-scope)
-10. [Contributors](#contributors)
-11. [License](#license)
+10. [License](#license)
 
 ---
 

@@ -121,10 +121,16 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com) and contains anony
 | ANN         | 99.95%   | 85.0      | 81.0   | 83.0     | 0.996   |
 
 ### **Visualizations**
-- **Confusion Matrix**:
-  ![Confusion Matrix](images/confusion_matrix.png)
-- **ROC Curve**:
-  ![ROC Curve](images/roc_curve.png)
+![image](https://github.com/user-attachments/assets/de909c57-8e36-4652-8988-f35904869e79)
+![image](https://github.com/user-attachments/assets/fae0bcd9-47d7-412d-aafa-5529a4e36c6c)
+![image](https://github.com/user-attachments/assets/3fe8f5b2-808e-4d98-9675-c55566a31386)
+![image](https://github.com/user-attachments/assets/3a076d84-ac54-4154-9b7f-84b0a4d330b1)
+![image](https://github.com/user-attachments/assets/e203c32f-c06d-4743-8b75-5ccf221d8ad7)
+
+
+
+
+
 
 ---
 

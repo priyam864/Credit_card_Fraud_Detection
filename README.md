@@ -10,13 +10,12 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Project Structure](#project-structure)
-5. [Dataset](#dataset)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Results](#results)
-9. [Future Scope](#future-scope)
-10. [License](#license)
+4. [Dataset](#dataset)
+5. [Installation](#installation)
+6. [Usage](#usage)
+7. [Results](#results)
+8. [Future Scope](#future-scope)
+9. [License](#license)
 
 ---
 
@@ -54,20 +53,6 @@ Credit card fraud poses a major challenge in the digital financial world. This p
   - GitHub for version control
 
 ---
-
-## **Project Structure**
-
-```
-
-Credit-Card-Fraud-Detection/
-│
-├── data/                     
-├── images/                  
-├── notebooks/                
-├── src/                   
-├── requirements.txt        
-├── README.md
-└── LICENSE                    
 
 ```
 
